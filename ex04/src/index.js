@@ -1,6 +1,7 @@
 function main() {
 
-    var forCat;
+    var x = 10;
+    var y = x;
 
 }
 main ();
